@@ -1,1 +1,0 @@
-print('Hello SoftUni_Basics_Lectures')
